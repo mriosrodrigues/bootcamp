@@ -1,0 +1,49 @@
+Resumo de Introdução ao CSS
+
+
+
+Tipos de CSS
+
+Inline - aplica o estilo em uma tag html especifica
+
+Interno - com o CSS interno, todos os estilos aplicados na pagina ficarão no mesmo arquivo HTML, para isso é necessário adicionar a tag style dentro do head do documento.
+
+Externo - todo o estilo da nossa pagina é separado em outro arquivo, para isso é necessário criar a tag link no arquivo HTML dentro do head, linkando os dois arquivos.
+_____________________________________________________________________________
+
+Reset navegador
+
+
+Por padrão o navegador já aplica alguns estilos no nosso código e precisamos resetar essa configuração.
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+_____________________________________________________________________________
+
+Propriedades básicas do CSS
+
+
+color: muda a cor do texto. Pode ser utilizada através do nome da cor, código da cor ou código rgb.
+
+font-family: define a fonte que será utilizada no texto.
+
+font-weight: muda o peso da fonte (bold, normal).
+
+font-style: muda o estilo da fonte, por exemplo itálico, negrito.
+
+text-decoration: muda a decoração do texto. Por exemplo sublinhado (underline).
+
+line-height: muda a altura de cada linha, ou entrelinha. É comum utilizar a unidade em, pois assim deixamos a entrelinha proporcional ao tamanho da fonte. Ex: line-height: 1.5em; (1.5 vezes o tamanho da fonte).
+
+text-indent: define tamanho do espaçamento no inicio de um paragrafo.
+
+text-transform: muda a caixa do texto para maiúsculo ou minúsculo (uppercase e lowercase).
+
+word-spacing: determina o espaçamento entre palavras.
+
+letter-spacing: determina o espaçamento entre letras.

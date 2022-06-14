@@ -1,0 +1,55 @@
+Resumo de Introdução ao HTML5
+
+Corpo do HTML
+_____________________________________________________________________________
+<!DOCTYPE html> - informa ao navegador qual é a versão do HTML utilizada no arquivo.
+
+<html> - informa ao navegador, o que estiver dentro dessa tag deve ser interpretado como elemento de um código HTML.
+
+<head> - contem informações gerais sobre o documento, por exemplo seu título, links para scripts, tags de estilo e tags relacionadas a responsividade. Os dados dessa tag não serao exibidos em tela para o usuário final.
+
+	<title> - Titulo do documento, exibido na aba do navegador e utilizado para SEO .
+	</title> - fechamento da tag title.
+
+</head> - fechamento da tag head.
+
+<body> - corpo da pagina, tudo que será exibido em tela.
+</body> - fechamento da tag body.
+
+</html> - fechamento da tag html.
+
+
+Tags mais comuns utilizadas em html
+_____________________________________________________________________________
+<link> - link outros arquivos com a pagina, como no caso do arquivo css externo.
+
+<h1> até >h6> Define do cabeçalho 1 até o cabeçalho 6.
+
+<div> - elemento de divisão, agrupa elementos que contem o mesmo estilos ou valores de atributos.
+
+<img> - adiciona imagem na pagina, pode ser utilizada através da url da imagem ou indicando a pasta local onde está a imagem.
+
+<p> - cria um paragrafo no texto.
+
+<a> - elemento ancora, cria um hiperlink com outras paginas da web através do atributo href. Pode ser utilizado em textos ou imagens na pagina.
+
+<br> - quebra de linha.
+
+<hr> - traça uma linha horizontal.
+
+<span> - elemento de divisão, diferente da tag div, é um elemento utilizado em casos mais pontuais como dentro de um paragrafo, por exemplo.
+
+<header> - tag semântica, utilizado para o cabeçalho da pagina.
+
+<main> - tag semântica, utilizada para o conteúdo principal da pagina.
+
+<footer> - tag semântica, utilizada para o rodapé da pagina.
+
+<!-- --> - tag utilizada para inserir comentarios no código. Nada dentro dessa tag sera exibido na pagina.
+
+
+Atributos
+____________________________________________________________________________
+class - identificado pelo . antes do nome da classe por exemplo .nomeDaClasse. O atributo class identifica as tags que queremos estilizar, podendo ser aplicado a mais de uma tag.
+
+id - identificado pelo # antes do ID por exemplo #nomeDoID. O atributo id identifica as tags que queremos estilizar, pode ser aplicado somente a uma tag.
