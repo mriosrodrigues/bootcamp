@@ -2,7 +2,7 @@
 
 ### Neste repositório estao os projetos desenvolvidos durante o bootcamp [DIO](https://web.dio.me/home) .
 
- - Desafio de Projeto - Recriando a pagina inicial do Instagram 
+ - Desafio I - Recriando a pagina inicial do Instagram 
 
 
 
