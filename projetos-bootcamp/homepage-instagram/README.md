@@ -1,6 +1,6 @@
 # Desafio de Projeto - Recriando a pagina inicial do Instagram
 
-### Nesse projeto concluimos o desafio de reconstruir a página de login do Instagram, utilizando a propriedade Flexbox do CSS, um dos principais elementos de posicionamento quando se trata de responsividade.
+### Este é um projeto de reconstrução da página de login do Instagram, utilizando a propriedade Flexbox do CSS, um dos principais elementos de posicionamento quando se trata de responsividade.
 
 
 
