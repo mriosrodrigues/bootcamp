@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+	background-color: #eddbc4;
+}
+
+.container{
+	margin-top: 80px;
+	padding:50px 80px 50px 80px;
+	border: solid black;
+	border-radius: 0px 50px 50px 50px;
+	background-color: #a3c9a7;
+}
+
+.title{
+	min-width: 300px;
+	text-align: center;
+	border-bottom: solid 1px;
+	margin-bottom: 30px;
+}
+
+.action{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 30px;
+}
+
+#nova-tarefa, #adicionar{
+	border-radius: 5px;
+	border: none;
+}
+
+.action input{
+	height: 40px;
+	width: 70%;
+	font-size: 1.2rem;
+	padding-left: 5px;
+	
+}
+
+#adicionar{
+	width: 15%;
+	font-size: 1.5rem;
+	background-color: green;
+}
+
+li{
+	list-style: none;
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+}
+
+li input:checked + label{
+	color: green;
+	text-decoration: line-through;
+}
+
+#tarefa label{
+	padding-left: 5px;
+}
+
+#pula-linha{
+	margin-bottom: 15px;
+}
