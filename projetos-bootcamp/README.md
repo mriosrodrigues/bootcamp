@@ -4,6 +4,8 @@
 
  - Desafio I - Recriando a pagina inicial do Instagram 
  - Desafio II - Contador
+ - Desafio III - Lista de Tarefas   
+ 
 
 
 
