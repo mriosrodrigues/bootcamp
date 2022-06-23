@@ -3,7 +3,8 @@
 ### Este repositório tem a finalidade de documentar meu progresso e aprendizado durante o bootcamp [DIO](https://web.dio.me/home) .
 
  - Introduçao ao Git e ao GitHub
- - Introduçao HTML e CSS
+ - Introduçao HTML e CSS   
+ - Sintaxe e Operadores ( Javascript )   
  - Projetos Bootcamp
 
 
